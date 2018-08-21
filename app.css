@@ -1,0 +1,18 @@
+h1 {
+	color: rgb(0,200,100, 0.8);
+	/*border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+	border: 2px solid rgb(255,100,80);
+}
+
+h4 {
+	background: rgb(255,100,80);
+}
+
+body {
+	/*background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Weathered_wood_grain.JPG/800px-Weathered_wood_grain.JPG);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+	background: pink;
+}
